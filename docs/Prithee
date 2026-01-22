@@ -1,13 +1,13 @@
 Prithee
 ----------------------------
-input: Scanner
-rand: Random
-sonnet: String
-splitWords: String[]
-correct: int
-incorrect: int
-stopIndex: int
-missingWord: String
-guess: String
+-input: Scanner
+-rand: Random
+-sonnet: String
+-splitWords: String[]
+-correct: int
+-incorrect: int
+-stopIndex: int
+-missingWord: String
+-guess: String
 --------------------------
-main(args:String[]): void
++main(args:String[]): void

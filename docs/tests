@@ -1,12 +1,13 @@
 Tests:
 
 1. Program prints sonnet up to a random word everytime it asks for an input
+1.5 test if the sonnet separates into an array with each word
 2. Ask for user input to guess for the next work
 3. Correct guess when user enters missing word. Prints correct and shows the score with "correct" incremented
 4. Incorrect guess when user doesn't guess the word right. Print "Incorrect" then display the word and score with "incorrect incremented"
 5. Check for case sensitivity by ensure that the word works in lowercase uppercase or a mix. "here", "HERE, "HEre" and all accepted answers.
 6. Check if the user wins by guessing 3 words correct. Prints "You Win!" and exits the program.
-6. Check if the user loses by guessing 3 words incorrectly. Prints "You Lose!" and exits the program.
+7. Check if the user loses by guessing 3 words incorrectly. Prints "You Lose!" and exits the program.
 
 
 
